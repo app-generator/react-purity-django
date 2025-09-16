@@ -180,4 +180,4 @@ One of the world's fastest-growing hosting providers, **Hostinger** serves a glo
 <br />
 
 ---
-# [React Purity Django](https://app-generator.dev/product/purity-dashboard/api-django/react/) - Full-Stack Seed project provided by **[App Generator](https://app-generator.dev/)**.
+## [React Purity Django](https://app-generator.dev/product/purity-dashboard/api-django/react/) - Full-Stack Seed project provided by **[App Generator](https://app-generator.dev/)**.
